@@ -25,6 +25,8 @@ function generateRandomString(length = 8) {
         cy.get("#submit").click();
         cy.get("#add-contact").click()
 
+        //lskdflksajf
+
 
         
      
