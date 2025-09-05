@@ -21,6 +21,10 @@ describe("test suite for cura make appointment", () => [
         cy.get("#menu-toggle").click();
         cy.get(':nth-child(6) > a').click()
 
+        //sdlkafj
+
+      
+
 
     })
 
